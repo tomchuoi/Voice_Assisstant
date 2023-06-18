@@ -1,5 +1,5 @@
 # Voice_Assisstant
-This simple python program using Chat GPT-3's API to create a voice-based question-answering assistant.
+This simple python program using Chat GPT-3 API to create a voice-based question-answering assistant.
 
 *Features:
   - Voice recognition: The assistant uses the SpeechRecognition library to convert spoken words into text.
